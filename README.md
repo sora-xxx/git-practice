@@ -4,4 +4,4 @@
 mainブランチで更新(recase conflict用)
 rebase用
 
-stash練習(トラック済み)
+stash練習(2nd)
